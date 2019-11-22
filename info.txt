@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Gondola_SD-Swash
+font link: http://www.deffeyes.com/popups/type/gondola.html
+font author: Steve Deffeyes
+font author site: http://www.deffeyes.com/
+
+
+icon designer: Live Fish
+icon designer link: /bmomulon
+        
+{"bg":"#423833","icon":"#D1793F","font":"#ffffff","slogan":"#ffffff"}
+      
